@@ -14,4 +14,5 @@ Runs the script, when it starts you should see options. Make sure that you enter
 
 ## Donations
 BTC: 12nZjdCFK1uriu1A9yBJtjkEiJjUnqFnqd
+
 ETH: 0x096C02CE843Fef394AfA8aFa91D251c23FDD5c1B
