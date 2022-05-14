@@ -1,5 +1,5 @@
 # bitcoinKeyGenerator
-Simple python bitcoin key generator that can create wallet address and private key from integer or 32-bit string
+Simple python bitcoin key generator that can create wallet address and private key from integer or 256-bit string
 
 
 ## Usage:
